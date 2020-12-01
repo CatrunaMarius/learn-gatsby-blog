@@ -1,3 +1,48 @@
+# 32. Bonus Build a GatsbyJS Blog
+## Referince link
+[Gatsby](https://www.gatsbyjs.com/)
+
+[Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog)
+
+[Gatsby-CLI](https://www.gatsbyjs.com/docs/gatsby-cli/)
+
+[Gatsby plugin library](https://www.gatsbyjs.com/plugins)
+
+[useStaticQuery](https://www.gatsbyjs.com/docs/use-static-query/)
+
+[pages documentation](https://www.gatsbyjs.com/docs/creating-and-modifying-pages/)
+
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[gatsby-transformer-remar]k(https://www.gatsbyjs.com/plugins/gatsby-transformer-remark/)
+
+[gatsby-source-filesystem](https://www.gatsbyjs.com/plugins/gatsby-source-filesystem/)
+
+[gatsby-node.js API documentation](https://www.gatsbyjs.com/docs/node-apis/)
+
+[createFilePath](https://www.gatsbyjs.com/plugins/gatsby-source-filesystem/#createfilepath)
+
+[createPage](https://www.gatsbyjs.com/docs/actions/#createPage)
+
+[createPages](https://www.gatsbyjs.com/docs/node-apis/#createPages)
+
+[Tagged template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_templates)
+
+[dangerouslySetInnerHTML](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml]
+(path)[https://nodejs.org/api/path.html)
+
+[babel-plugin-styled-components npm](https://www.npmjs.com/package/babel-plugin-styled-components)
+
+[gatsby-plugin-styled-components npm](https://www.npmjs.com/package/gatsby-plugin-styled-components)
+
+[styled-components npm](https://www.npmjs.com/package/styled-components)
+
+[netlify hosting](https://www.netlify.com/)
+## GatsbyJS
+
+Here's the truth: I am not the biggest fan of GatsbyJS. The reason is that it involves a lot of configuration and setup. It's one of those libraries that feels like you're learning something completely new instead of just writing Javascript. As you go through these codes, you might find yourself saying "this is so different than anything I have done before as a React developer". Don't get discouraged. GatsbyJS is a type of library that requires you to go through the documentation and sometimes learn a completely different way of structuring your code which is unique to Gastby. We decided to add this as a bonus to the course, but by no means should you feel let down if you don't get everything in these videos. Like I said, Gatsby is all about the "GastbyJS way", and if you don't understand it completely, it won't affect you outside of using GatsbyJS.
+
+So focus more on creating a blog as a fun way to end the course instead of understanding every detail. As a professional React developer, you won't encounter these problems unless you are working directly with Gatsby.
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
