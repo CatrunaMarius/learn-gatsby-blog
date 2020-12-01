@@ -38,7 +38,6 @@
 [styled-components npm](https://www.npmjs.com/package/styled-components)
 
 [netlify hosting](https://www.netlify.com/)
-
 ## GatsbyJS
 
 Here's the truth: I am not the biggest fan of GatsbyJS. The reason is that it involves a lot of configuration and setup. It's one of those libraries that feels like you're learning something completely new instead of just writing Javascript. As you go through these codes, you might find yourself saying "this is so different than anything I have done before as a React developer". Don't get discouraged. GatsbyJS is a type of library that requires you to go through the documentation and sometimes learn a completely different way of structuring your code which is unique to Gastby. We decided to add this as a bonus to the course, but by no means should you feel let down if you don't get everything in these videos. Like I said, Gatsby is all about the "GastbyJS way", and if you don't understand it completely, it won't affect you outside of using GatsbyJS.
